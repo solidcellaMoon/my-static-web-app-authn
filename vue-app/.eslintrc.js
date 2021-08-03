@@ -16,8 +16,6 @@ module.exports = {
       'error',
       {
         trailingComma: 'es5',
-        singleQuote: true,
-        printWidth: 200,
         "endOfLine": "auto" 
       },
     ],
